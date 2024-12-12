@@ -47,9 +47,6 @@ La funzione `simulate_routing` nel file `main.py` gestisce la simulazione:
 
 ---
 
-## **Conclusioni**
-Il progetto ha dimostrato come i nodi di una rete possano calcolare iterativamente le rotte ottimali utilizzando il protocollo Distance Vector Routing.
-
 ### **Possibili Estensioni**
 - Supporto per nodi che si aggiungono o rimuovono dinamicamente dalla rete.
 - Visualizzazione grafica della rete e delle tabelle di routing.
